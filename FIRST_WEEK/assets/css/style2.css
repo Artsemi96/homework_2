@@ -1,0 +1,50 @@
+.block_img{
+    margin: 0px auto;
+}
+
+
+
+.fon{
+    position: absolute;
+    width: 100%;   
+}
+
+
+
+
+.container1{
+    width: 1442px;
+    height: 65px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.header{
+    position:absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #FFFFFF;
+}
+.header__inner{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+}
+.logo{
+
+}
+
+.logo__img{
+    max-width:79.53px;
+    height:auto;
+}
+.nav{}
+.nav__list{}
+.nav__item{
+    display: inline-block;   
+}
+
+.nav__link{}
+.nav__link.active,
+.nav__link:hover,
+.nav__link:focus{}
